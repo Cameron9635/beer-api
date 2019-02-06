@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Cameron9635/beer-api#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "mongoose": "^5.4.10"
   }
 }
